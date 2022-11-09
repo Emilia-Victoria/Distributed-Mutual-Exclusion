@@ -1,4 +1,4 @@
-module github.com/Emilia-Victoria/Distributed-Mutual-Exclusion.git
+module github.com/Emilia-Victoria/Distributed-Mutual-Exclusion
 
 go 1.19
 
